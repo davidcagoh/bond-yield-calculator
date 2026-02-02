@@ -188,6 +188,6 @@ The first eigenvalue for both spot and forward rates captures the largest portio
 
 ## References
 
-1. The scraper supplied by Jaspreet
+1. The scraper supplied by Jaspreet Khela https://colab.research.google.com/drive/1kCYtYmExgO7-iXjSc_2Pj87BsRBJGZnp?usp=sharing
 
-**GitHub Repository:** [Insert link to your GitHub repository with all code]
+**GitHub Repository:** https://github.com/davidcagoh/bond-yield-calculator
